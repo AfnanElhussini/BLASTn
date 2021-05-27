@@ -12,7 +12,6 @@
    
 > **For Development**  
 * Flutter
-* Firebase
 
 ## Flutter UI
 ![](https://github.com/hager-shiref/blast/blob/main/flutter%20ui/BLASTn.gif)
