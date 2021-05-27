@@ -1,0 +1,42 @@
+name: untitled
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  introduction_screen: ^2.1.0
+  youtube_plyr_iframe: ^2.0.3
+  flutter_svg: ^0.22.0
+  url_launcher: ^6.0.3
+  pie_chart: ^5.0.0
+  firebase_core: 
+  firebase_auth:
+  firebase_database: 7.0.0-dev.2
+  cloud_firestore: ^2.1.0
+  http:
+  provider:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  assets:
+    - asstes/
+
+  fonts:
+    - family: font1
+      fonts :
+        - asset:  asstes/Montserrat-Regular.ttf
+    - family: font2
+      fonts:
+        - asset: asstes/Montserrat-Medium.ttf
+  uses-material-design: true
+
